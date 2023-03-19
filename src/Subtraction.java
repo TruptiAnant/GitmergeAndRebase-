@@ -5,6 +5,6 @@ public class Subtraction {
         int a = 8, b = 7;
         int c = a - b;
         System.out.println("result=  "+c);
-       // System.out.println("This msg for testing");
+
     }
 }
